@@ -8,3 +8,4 @@ Feature of this Project are
    >I have divided the project into 4 packages and in that i have created classes depending upon the methods used. 
 4. The test execution is driven by Dynamic XML.
 5. The project is capable of saving the Evidence of the excecution into files which contains details of request sent, endpoint and response received.    
+6.  And the project is capable of generating the Allure reports in the Google Chrome.
